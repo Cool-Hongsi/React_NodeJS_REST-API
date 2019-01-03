@@ -1,0 +1,8 @@
+table, h2{
+    margin: auto; /* alignment center */
+    width: 70%;
+}
+th, td{
+    text-align: center;
+    border: 1px solid black;
+}
